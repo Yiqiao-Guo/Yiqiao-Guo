@@ -1,16 +1,32 @@
 ## Hi there 👋
+# Hi, I'm Yiqiao 👋
 
-<!--
-**Yiqiao-Guo/Yiqiao-Guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a networking student based in Ottawa, Canada, with previous experience in telecom transmission and network operations.
 
-Here are some ideas to get you started:
+I am currently building hands-on skills in enterprise networking, Linux administration, Windows Server, and network automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+
+- **Networking:** TCP/IP, VLANs, Routing, Switching, ACLs, DHCP, NAT
+- **Cisco:** IOS configuration, troubleshooting, Cisco CML
+- **Linux:** Ubuntu, command line, SSH, basic server administration
+- **Windows Server:** Active Directory, DNS, DHCP, Group Policy
+- **Automation:** Python, Git, GitHub, YAML
+- **Telecom:** SDH, OTN, transmission network operations
+
+## 🔧 Current Projects
+
+- Cisco Networking Labs
+- Linux Server & Nextcloud Lab
+- Windows Server / Active Directory Lab
+- Network Automation Labs
+
+## 📚 Currently Learning
+
+- Cisco networking and network troubleshooting
+- Linux system administration
+- Python-based network automation
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/yiqiao-guo-402428334
