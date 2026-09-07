@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Yiqiao 👋
 
 I'm a networking student based in Ottawa, Canada, with previous experience in telecom transmission and network operations.
@@ -14,7 +13,7 @@ I am currently building hands-on skills in enterprise networking, Linux administ
 - **Automation:** Python, Git, GitHub, YAML
 - **Telecom:** SDH, OTN, transmission network operations
 
-## 🔧 Current Projects
+## 🔧 Hands-On Projects
 
 - Cisco Networking Labs
 - Linux Server & Nextcloud Lab
